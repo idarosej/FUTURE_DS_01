@@ -1,0 +1,6 @@
+Order ID,Product,Category,Region,Sales
+1001,Laptop,Electronics,North,50000
+1002,Phone,Electronics,South,30000
+1003,Chair,Furniture,East,10000
+1004,Table,Furniture,West,15000
+1005,Headphones,Electronics,South,5000
